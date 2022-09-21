@@ -1,0 +1,30 @@
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+SeguidorNRL	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+printError KEYWORD2
+readSensors	KEYWORD2
+motorControl	KEYWORD2
+calculatePID	KEYWORD2
+checkPIDvalues	KEYWORD2
+checkSensors	KEYWORD2
+printError	KEYWORD2
+setLimiarSensor	KEYWORD2
+setVelNominal	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+AUTOMATIC	LITERAL1
+MANUAL	LITERAL1
+DIRECT	LITERAL1
+REVERSE	LITERAL1
+P_ON_E	LITERAL1
+P_ON_M	LITERAL1

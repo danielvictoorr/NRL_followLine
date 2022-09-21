@@ -1,0 +1,27 @@
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+MotorEncoderNRL	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+setVel KEYWORD2
+getDistPorPulso	KEYWORD2
+getVel	KEYWORD2
+updateVel	KEYWORD2
+pulsoCont	KEYWORD2
+setP	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+AUTOMATIC	LITERAL1
+MANUAL	LITERAL1
+DIRECT	LITERAL1
+REVERSE	LITERAL1
+P_ON_E	LITERAL1
+P_ON_M	LITERAL1

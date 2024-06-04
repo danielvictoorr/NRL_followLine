@@ -1,2 +1,2 @@
 # NRL_followLine
-Pasta com codigos usados no seguidor de linha, codigos estaram separados por competição
+Pasta com codigos usados no seguidor de linha, codigos estão separados por competição
